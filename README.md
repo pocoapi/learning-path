@@ -15,4 +15,6 @@
 * Create a full MVC application
 
 ## Day 3
-In progress
+* Web-API basic (https://www.youtube.com/watch?v=vN9NRqv7xmY)
+* Creat a web api - https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio-code
+* Create a document expalining what is web api in detail.
