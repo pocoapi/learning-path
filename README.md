@@ -8,7 +8,7 @@
 * Create a new class `SUV` and inherit `Car` class. Add 5 new properties and 5 methods to `SUV` class (use your imagination for property and method)
 * Write a document explaining each property and method that `SUV` class have.
 
-## Day 2, 3 nad 4
+## Day 2, 3 and 4
 Follow this tutorial 
 https://github.com/dotnet/training-tutorials/blob/master/content/csharp/getting-started/README.md
 
